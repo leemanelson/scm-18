@@ -1,4 +1,10 @@
 HAI HOW ARE YOU 
 I AM GOING TO COPY THIS FILE
 i am going to work in my local repo
+<<<<<<< HEAD
 i am working in main
+=======
+i am working in thirsty branch
+commit in thirsty branch
+
+>>>>>>> thirsty
